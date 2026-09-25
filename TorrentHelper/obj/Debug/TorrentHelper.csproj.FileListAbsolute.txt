@@ -1,0 +1,17 @@
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TorrentHelper.exe.config
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TorrentHelper.exe
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TorrentHelper.pdb
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.exe
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.pdb
+c:\users\owner\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TVDBSharp.dll
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TorrentHelper.exe.config
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TorrentHelper.exe
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TorrentHelper.pdb
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\bin\Debug\TVDBSharp.dll
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.csprojAssemblyReference.cache
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.csproj.CoreCompileInputs.cache
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.csproj.CopyComplete
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.exe
+C:\Users\johnathan.simpson\source\repos\TorrentHelper\TorrentHelper\obj\Debug\TorrentHelper.pdb
